@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+/tmp/
+*.log
+
+# 会话临时文件
+meow_sessions/
